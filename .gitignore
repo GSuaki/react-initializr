@@ -1,0 +1,18 @@
+# Logs
+*.log
+
+# Dependency directory
+node_modules
+
+# Trash
+.DS_Store
+.idea
+
+# Dynamically processed files
+coverage
+dist
+story
+examples/build
+lib
+.vscode/settings.json
+.npmrc

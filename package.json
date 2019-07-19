@@ -1,0 +1,29 @@
+{
+  "name": "react-initializr",
+  "version": "0.0.1",
+  "description": "An initializer for React libraries",
+  "main": "index.js",
+  "bin": {
+    "react-initializr": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "3.5.5",
+    "chalk": "2.4.2",
+    "commander": "2.20.0",
+    "execa": "2.0.3",
+    "git-user": "0.0.1",
+    "git-user-name": "2.0.0",
+    "globby": "10.0.1",
+    "handlebars": "4.1.2",
+    "inquirer": "6.5.0",
+    "make-dir": "3.0.0",
+    "ora": "3.4.0",
+    "p-each-series": "2.1.0",
+    "validate-npm-package-name": "3.0.0"
+  }
+}
