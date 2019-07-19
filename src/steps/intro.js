@@ -1,7 +1,7 @@
 const chalk = require('chalk');
 
 function intro(context) {
-  const name = `${chalk.gray('react-lib')}-${chalk.yellow('initializr')}`
+  const name = `${chalk.gray('react')}-${chalk.yellow('initializr')}`
   const subtitle = chalk.gray('Bootstrap your library')
 
   console.log(`

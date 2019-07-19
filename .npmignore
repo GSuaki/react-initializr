@@ -1,6 +1,6 @@
 coverage
 src/__tests__
-examples
+!templates/**/*
 jest.config.js
 jest.setup.js
 .eslintrc

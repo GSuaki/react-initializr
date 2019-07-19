@@ -6,9 +6,8 @@
 ## Features
 
 - Easy-to-use CLI
-- Handles all modern JS features
 - [create-react-app](https://github.com/facebookincubator/create-react-app) for example usage and local dev
-- [Rollup](https://rollupjs.org/) for bundling
+- [Webpack](https://webpack.js.org/) for bundling
 - [Babel](https://babeljs.io/) for transpiling
 - [Jest](https://facebook.github.io/jest/) for testing
 - Supports complicated peer-dependencies
@@ -16,8 +15,6 @@
 
 
 ## Install globally
-
-This package requires `node >= 8`.
 
 ```bash
 npm install -g react-initializr

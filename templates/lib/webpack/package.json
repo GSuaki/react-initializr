@@ -18,12 +18,6 @@
     "storybook:start": "start-storybook -p 6006",
     "storybook:build": "{{manager}} run build && build-storybook -c .storybook -o story"
   },
-  "files": [
-    "main.js",
-    "card.js",
-    "dist/",
-    "CHANGELOG.md"
-  ],
   "dependencies": {
     "bootstrap": "4.3.1",
     "react-placeholder": "3.0.2"

@@ -6,8 +6,8 @@ const req = require.context('../src', true, /\.story\.js$/)
 require('./commons.scss');
 
 setOptions({
-  name: 'Contrata Show - React',
-  url: 'http://react.contratashow.com.br',
+  name: 'React Initializr',
+  url: 'https://github.com/GSuaki/react-initializr',
 });
 
 function loadStories() {
