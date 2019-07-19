@@ -1,0 +1,20 @@
+@import '../index';
+
+.demo-card {
+  margin: 2em;
+
+  h2 {
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .card-body {
+    padding: 15px;
+  }
+
+  .awesome-placeholder {
+    .text-block {
+      width: 98% !important;
+    }
+  }
+}

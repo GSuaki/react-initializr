@@ -13,5 +13,5 @@ coverage
 dist
 story
 examples/build
+lib
 .vscode/settings.json
-.npmrc

@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components -> Card render 1`] = `
+<div
+  className="card"
+  onClick={[MockFunction]}
+>
+  <div
+    className="content"
+  >
+    Hello
+  </div>
+</div>
+`;
+
+exports[`Components -> Card render with placeholder 1`] = `
+<div
+  className="card"
+  onClick={[MockFunction]}
+>
+  <div
+    className="awesome-placeholder show-loading-animation"
+  >
+    <div
+      className="rect-shape"
+      style={
+        Object {
+          "backgroundColor": "#e4e4e4",
+          "height": 158,
+          "marginRight": 10,
+          "width": "100%",
+        }
+      }
+    />
+    <div
+      className="text-block"
+      style={
+        Object {
+          "padding": 10,
+          "width": "100%",
+        }
+      }
+    >
+      <div
+        className="text-row"
+        style={
+          Object {
+            "backgroundColor": "#e4e4e4",
+            "height": "1em",
+            "marginTop": 0,
+            "maxHeight": "7.6923076923076925%",
+            "width": "97%",
+          }
+        }
+      />
+      <div
+        className="text-row"
+        style={
+          Object {
+            "backgroundColor": "#e4e4e4",
+            "height": "1em",
+            "marginTop": "0.7em",
+            "maxHeight": "7.6923076923076925%",
+            "width": "100%",
+          }
+        }
+      />
+      <div
+        className="text-row"
+        style={
+          Object {
+            "backgroundColor": "#e4e4e4",
+            "height": "1em",
+            "marginTop": "0.7em",
+            "maxHeight": "7.6923076923076925%",
+            "width": "94%",
+          }
+        }
+      />
+      <div
+        className="text-row"
+        style={
+          Object {
+            "backgroundColor": "#e4e4e4",
+            "height": "1em",
+            "marginTop": "0.7em",
+            "maxHeight": "7.6923076923076925%",
+            "width": "90%",
+          }
+        }
+      />
+      <div
+        className="text-row"
+        style={
+          Object {
+            "backgroundColor": "#e4e4e4",
+            "height": "1em",
+            "marginTop": "0.7em",
+            "maxHeight": "7.6923076923076925%",
+            "width": "98%",
+          }
+        }
+      />
+      <div
+        className="text-row"
+        style={
+          Object {
+            "backgroundColor": "#e4e4e4",
+            "height": "1em",
+            "marginTop": "0.7em",
+            "maxHeight": "7.6923076923076925%",
+            "width": "95%",
+          }
+        }
+      />
+      <div
+        className="text-row"
+        style={
+          Object {
+            "backgroundColor": "#e4e4e4",
+            "height": "1em",
+            "marginTop": "0.7em",
+            "maxHeight": "7.6923076923076925%",
+            "width": "98%",
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;
