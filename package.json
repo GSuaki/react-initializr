@@ -1,6 +1,6 @@
 {
   "name": "react-initializr",
-  "version": "0.0.2-RC.1",
+  "version": "0.0.2-RC.3",
   "description": "An initializer for React libraries",
   "main": "index.js",
   "bin": {
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Gabriel Suaki <gsuaki@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "bluebird": "3.5.5",

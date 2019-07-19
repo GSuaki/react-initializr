@@ -6,7 +6,7 @@ function intro(context) {
 
   console.log(`
   ############################
-  #  ${name}    #
+  #  ${name}        #
   #  ${subtitle}  #
   ############################
 
