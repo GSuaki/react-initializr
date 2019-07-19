@@ -1,4 +1,4 @@
-# create-react-library
+# react-initializr
 
 > CLI for creating reusable, modern React libraries using Webpack and create-react-app.
 
@@ -35,12 +35,6 @@ Answer some basic prompts about your module and then the CLI will perform the fo
 - copy over the template
 - install dependencies via yarn or npm
 - link packages together for local development
-
-At this point, your new module should resemble this screenshot and is all setup for local development.
-
-<p align="center">
-  <img width="600" src="https://cdn.rawgit.com/transitive-bullshit/create-react-library/master/media/tree.svg">
-</p>
 
 
 ## Development
