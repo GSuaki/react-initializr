@@ -1,6 +1,6 @@
 {
   "name": "react-initializr",
-  "version": "0.0.2-RC.3",
+  "version": "0.0.2",
   "description": "An initializer for React libraries",
   "main": "index.js",
   "bin": {
