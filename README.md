@@ -3,7 +3,7 @@
 > CLI for creating reusable, modern React libraries using Webpack and create-react-app.
 
 <p align="center">
-  <img width="600" src="./docs/initializr@2x.gif">
+  <img width="600" src="https://raw.githubusercontent.com/gsuaki/react-initializr/master/docs/initializr@2x.gif">
 </p>
 
 
@@ -15,7 +15,7 @@
 - [Babel](https://babeljs.io/) for transpiling
 - [Jest](https://facebook.github.io/jest/) for testing
 - Supports complicated peer-dependencies
-- Supports CSS and SASS modules
+- Supports CSS, SCSS and SASS modules
 
 
 ## Install globally
