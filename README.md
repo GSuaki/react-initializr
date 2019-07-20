@@ -2,6 +2,10 @@
 
 > CLI for creating reusable, modern React libraries using Webpack and create-react-app.
 
+<p align="center">
+  <img width="600" src="./docs/initializr@2x.gif">
+</p>
+
 
 ## Features
 
